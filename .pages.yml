@@ -1,9 +1,11 @@
-media: public/img
+media: static/
+
 content:
-  - name: posts
-    label: Posts
+
+  - name: content
+    label: Content
     type: collection
-    path: content/blog
+    path: content/
     view:
       fields: [ title, draft, date ]
     fields:
@@ -11,23 +13,17 @@ content:
       - { name: description, label: Description, type: string }
       - { name: date, label: Date, type: date }
       - { name: draft, label: Draft, type: boolean }
-      - { name: tags, label: Tags, type: string, list: true }
       - { name: body, label: Body, type: rich-text }
+
   - name: about
     label: About page
     type: file
-    path: content/about/index.md
+    path: content/about.md
     fields:
-      - { name: layout, type: string, hidden: true, default: layouts/base.njk }
-      - name: eleventyNavigation
-        label: Navigation
-        type: object
-        fields:
-          - { name: key, label: Key, type: string }
-          - { name: order, label: Order, type: number }
       - { name: body, label: Body, type: rich-text }
-  - name: metadata
-    label: Metadata
+
+  - name: config
+    label: Config
     type: file
-    path: _data/metadata.js
+    path: config.toml
     format: code
