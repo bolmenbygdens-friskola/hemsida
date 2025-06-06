@@ -26,4 +26,4 @@ content:
     label: Config
     type: file
     path: config.toml
-    format: code
+    format: toml
