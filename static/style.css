@@ -1,0 +1,173 @@
+:root {
+	--foreground: black;
+	--background: white;
+	--accent: turqoise;
+	--trans-accent: rgba(0, 170, 170, 0.2);
+	--line-thickness: 0.2rem;
+
+	font-family: sans-serif;
+	font-size: 14pt;
+}
+
+body {
+	height: 100vh;
+	margin: 0;
+
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+
+	background-color: var(--background);
+}
+
+header {
+	border-bottom: var(--line-thickness) solid var(--trans-accent);
+	> div {
+		padding: 0.5rem;
+
+		#banner {
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+			align-items: center;
+			margin: 0;
+			padding: 1rem;
+			gap: 1rem;
+
+			img {
+				height: 3em;
+			}
+		}
+	}
+}
+
+header a,
+footer a {
+	display: contents;
+	text-decoration: unset;
+}
+
+footer {
+	color: white;
+	border-top: var(--line-thickness) solid var(--trans-accent);
+	background-color: black;
+	font-size: small;
+	padding: 0.3rem;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 1ch;
+}
+
+main {
+	padding: 1rem;
+	overflow: visible;
+	box-sizing: border-box;
+	color: var(--foreground);
+
+	width: min(100%, 90ch);
+	margin: 0 auto;
+
+	p > img {
+		margin: auto;
+		display: block;
+		max-width: 70%;
+		& + em {
+			display: block;
+			text-align: center;
+		}
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		scroll-margin-top: 1em;
+		position: relative;
+		margin: 0;
+	}
+
+	* + h2,
+	* + h3,
+	* + h4,
+	* + h5,
+	* + h6 {
+		margin-top: 1em;
+	}
+
+	* + h1 {
+		margin-top: 3em;
+	}
+
+	p {
+		line-height: 1.5em;
+		margin: 1em 0 0 0;
+	}
+
+	blockquote {
+		margin: 0 0 0 1em;
+	}
+}
+
+a {
+	&:hover {
+		outline: 0.1rem solid var(--accent);
+	}
+	&:active {
+		scale: 0.99;
+	}
+	*:focus {
+		outline: 0.2rem solid var(--accent);
+	}
+
+	/* crazy hack to get the cool 'open-in-new-tab' icon on external links */
+	&[target="_blank"]::after {
+		content: "";
+		width: 1em;
+		height: 1em;
+		margin: 0 0.05em 0 0.1em;
+		background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij48cGF0aCBkPSJNOSAyTDkgMyAxMi4zIDMgNiA5LjMgNi43IDEwIDEzIDMuNyAxMyA3IDE0IDcgMTQgMlpNNCA0QzIuOSA0IDIgNC45IDIgNkwyIDEyQzIgMTMuMSAyLjkgMTQgNCAxNEwxMCAxNEMxMS4xIDE0IDEyIDEzLjEgMTIgMTJMMTIgNyAxMSA4IDExIDEyQzExIDEyLjYgMTAuNiAxMyAxMCAxM0w0IDEzQzMuNCAxMyAzIDEyLjYgMyAxMkwzIDZDMyA1LjQgMy40IDUgNCA1TDggNSA5IDRaIi8+PC9zdmc+)
+			no-repeat;
+		background-size: contain;
+		display: inline-block;
+		vertical-align: text-top;
+	}
+}
+
+
+li {
+	margin-top: 1em;
+
+	&::marker {
+		font-weight: bold;
+	}
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	&:target {
+		background-color: rgba(#ff0, 0.3);
+		animation: fadeBackground 5s forwards;
+		&::before {
+			content: "→";
+			color: var(--accent);
+			margin-right: 0.3em;
+			padding: 0 0.2em;
+		}
+	}
+}
+
+@keyframes fadeBackground {
+	0%,
+	50% {
+	}
+	100% {
+		background-color: transparent;
+	}
+}

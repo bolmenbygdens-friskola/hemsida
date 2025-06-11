@@ -1,6 +1,7 @@
 {% extends "base.html" %}
+
 {% block xhead %}
-    <style>
+<style>
     #posts > a > div{
         border: 0.2rem solid var(--trans-accent);
         padding: .7rem;
@@ -15,11 +16,14 @@
             margin: 0;
         }
     }
-    </style>
+</style>
 {% endblock xhead %}
+
 {% block content %}
     <p>{{ config.description }}</p>
+
     {{ section.content | safe }}
+
     <h2>Nyheter</h2>
     {% set blog = get_section(path="blog/_index.md") %}
     <div id="posts">
