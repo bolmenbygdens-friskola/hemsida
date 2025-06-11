@@ -1,7 +1,7 @@
 title = "Bolmenbygdens friskola"
 description = "Vestibulum ut eleifend sem, at luctus nunc. Aenean tempus tortor est, ut laoreet libero placerat a. Ut eu sagittis neque. Mauris placerat lacus vel elit pulvinar, ac malesuada quam bibendum."
 default_language = "sv"
-base_url = "https://test-bolmso.samake.se/"
+base_url = "https://bolmso.samake.se/"
 minify_html = true
 build_search_index = true
 
