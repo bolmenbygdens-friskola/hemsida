@@ -11,34 +11,30 @@
         <meta name="description" content="{% block description %}{{ config.description }}{% endblock %}">
         <link rel="icon" href="{{ get_url(path='logo.png') }}" type="image/png">
         <link rel="stylesheet" href="{{ get_url(path='style.css') }}" type="text/css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
         {% block xhead %}{% endblock xhead %}
     </head>
     <body>
-        <a href="{{ get_url(path='@/_index.md') }}">
-            <header>
-                    <b style="font-size: 2rem; color: var(--accent);">
-                        {{ config.title }}
-                    </b>
-            </header>
-        </a>
-        <nav role="navigation">
-            <input id="hamburger" type="checkbox">
-            <span class="hamburger"></span>
-            <span class="hamburger"></span>
-            <span class="hamburger"></span>
-
-            {% set items = load_data(path="templates/nav.yaml", format="yaml") %}
-            {%- for item in items %}
-            <div>
-                {{ macros::navitem(item=item) }}
-                {%- if item.subitems %}
-                    {%- for subitem in item.subitems %}
-                        {{ macros::navitem(item=subitem) }}
-                    {%- endfor %}
-                {%- endif %}
-            </div>
-            {%- endfor %}
-        </nav>
+        <header>
+            <a href="{{ get_url(path='@/_index.md') }}" style="font-size: 200%; font-weight: bold;">
+            {{ config.title }}
+            </a>
+            <nav role="navigation">
+                {% set items = load_data(path="templates/nav.yaml", format="yaml") %}
+                {%- for item in items %}
+                <div>
+                    {{ macros::navitem(item=item) }}
+                    {%- if item.subitems %}
+                        {%- for subitem in item.subitems %}
+                            {{ macros::navitem(item=subitem) }}
+                        {%- endfor %}
+                    {%- endif %}
+                </div>
+                {%- endfor %}
+            </nav>
+        </header>
 
         <main>
             {% block content %}

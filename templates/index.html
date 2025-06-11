@@ -20,21 +20,21 @@
 {% endblock xhead %}
 
 {% block content %}
-    <p>{{ config.description }}</p>
 
     {{ section.content | safe }}
 
     <h2>Nyheter</h2>
-    {% set blog = get_section(path="blog/_index.md") %}
+    {% set posts_section = get_section(path="posts/_index.md") %}
     <div id="posts">
-        {% for page in blog.pages | slice(end=5) %}
-            <a href="{{ page.permalink | safe }}">
+        {% for post in posts_section.pages | slice(end=5) %}
+            <a href="{{ post.permalink | safe }}">
                 <div>
-                    <h3>{{ page.title }}</h3>
-                    <div style="justify-self:left;">{{ page.summary | safe }}</div>
-                    <div>{{ page.date }} | {{ page.reading_time }} min</div>
+                    <h3>{{ post.title }}</h3>
+                    <div style="justify-self:left;">{{ post.summary | safe }}</div>
+                    <div>{{ post.date }} | {{ post.reading_time }} min</div>
                 </div>
             </a>
         {% endfor %}
     </div>
+
 {% endblock content %}

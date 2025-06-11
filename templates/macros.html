@@ -2,6 +2,7 @@
 {%- if item.link is matching("https?://") %}
     <a href="{{ item.link | safe }}" target="_blank">{{ item.name | safe }}</a>
 {%- else %}
-    <a href="{{ config.base_url ~ item.link }}">{{ item.name | safe }}</a>
+    {% set internal_link = "@/" ~ item.link %}
+    <a href="{{ get_url(path=internal_link) }}">{{ item.name | safe }}</a>
 {%- endif %}
 {% endmacro navitem %}

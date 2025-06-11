@@ -1,66 +1,51 @@
 :root {
 	--foreground: black;
 	--background: white;
-	--accent: turqoise;
-	--trans-accent: rgba(0, 170, 170, 0.2);
-	--line-thickness: 0.2rem;
-
-	font-family: sans-serif;
-	font-size: 14pt;
+	--accent: #b0c4de;
+	--trans-accent: #b0c4decc;
+	--line-thickness: 0.3rem;
+	font-family: "Hanken Grotesk", sans-serif;
+	font-size: 13pt;
 }
 
 body {
 	height: 100vh;
 	margin: 0;
-
 	display: grid;
-	grid-template-rows: auto 1fr auto;
-
+	grid-template-rows: auto auto 1fr auto;
 	background-color: var(--background);
 }
 
 header {
-	border-bottom: var(--line-thickness) solid var(--trans-accent);
-	> div {
+	text-align: center;
+	background-image: url("media/flygfoto.jpg");
+	background-position: center;
+	background-size: cover;
+
+	>a {
+		display: inline-block;
 		padding: 0.5rem;
+		margin: 1rem;
+	}
 
-		#banner {
-			display: flex;
-			flex-direction: row;
-			justify-content: center;
-			align-items: center;
-			margin: 0;
-			padding: 1rem;
-			gap: 1rem;
-
-			img {
-				height: 3em;
-			}
-		}
+	a {
+		text-shadow: 0 0 0.5rem black;
+		text-decoration: none;
+		color: white;
 	}
 }
 
-header a,
-footer a {
-	display: contents;
-	text-decoration: unset;
-}
-
-footer {
-	color: white;
-	border-top: var(--line-thickness) solid var(--trans-accent);
-	background-color: black;
-	font-size: small;
-	padding: 0.3rem;
-
+nav {
+	padding: 0.5rem;
 	display: flex;
 	justify-content: center;
-	align-items: center;
-	gap: 1ch;
+	gap: 2ch;
+	background-color: var(--trans-accent);
 }
 
 main {
-	padding: 1rem;
+	border-top: var(--line-thickness) solid var(--trans-accent);
+	padding: 2rem;
 	overflow: visible;
 	box-sizing: border-box;
 	color: var(--foreground);
@@ -136,38 +121,9 @@ a {
 	}
 }
 
-
 li {
 	margin-top: 1em;
-
 	&::marker {
 		font-weight: bold;
-	}
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	&:target {
-		background-color: rgba(#ff0, 0.3);
-		animation: fadeBackground 5s forwards;
-		&::before {
-			content: "→";
-			color: var(--accent);
-			margin-right: 0.3em;
-			padding: 0 0.2em;
-		}
-	}
-}
-
-@keyframes fadeBackground {
-	0%,
-	50% {
-	}
-	100% {
-		background-color: transparent;
 	}
 }

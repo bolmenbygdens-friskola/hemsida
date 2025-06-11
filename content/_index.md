@@ -1,12 +1,9 @@
 ---
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim aeque
-doleamus animo, cum corpore dolemus, fieri tamen permagna accessio potest, si
-aliquod aeternum et infinitum impendere malum nobis opinemur. Quod idem licet
-transferre in voluptatem, ut postea variari voluptas distinguique possit,
-augeri amplificarique non possit. At etiam Athenis, ut e patre audiebam facete
-et urbane Stoicos irridente, statua est in quo a nobis philosophia defensa et
-collaudata est, cum id, quod maxime placeat, facere possimus, omnis voluptas
-assumenda est, omnis dolor repellendus. Temporibus autem quibusda
+# Välkommen till Bolmenbygdens friskola!
+
+På MTU gymnasiet i Linköping sätter vi dina drömmar och framtidsplaner i fokus.
+Med engagerade lärare, moderna utbildningar och en inspirerande studiemiljö erbjuder vi en plats där du kan växa och utvecklas både som person och inom ditt valda ämnesområde. Oavsett om du brinner för teknik, media och estetik eller samhällets uppbyggnad har vi något för dig.
+
+Utforska våra program och bli en del av vår gemenskap!
