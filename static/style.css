@@ -18,7 +18,7 @@ body {
 
 header {
 	text-align: center;
-	background-image: url("media/flygfoto.jpg");
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.2)),url("media/flygfoto.jpg");
 	background-position: center;
 	background-size: cover;
 
@@ -39,8 +39,14 @@ nav {
 	padding: 0.5rem;
 	display: flex;
 	justify-content: center;
-	gap: 2ch;
+	gap: 2.5rem;
 	background-color: var(--trans-accent);
+	> * {
+		opacity: 0.85;
+		&:hover, &:active {
+			opacity: 1;
+		}
+	}
 }
 
 main {
