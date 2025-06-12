@@ -29,6 +29,12 @@ content:
       - { name: draft, label: Draft, type: boolean }
       - { name: body, label: Body, type: rich-text }
 
+  - name: nav
+    label: Navigation
+    type: file
+    path: templates/nav.yaml
+    format: yaml
+
   - name: zola-config
     label: Zola config
     type: file
