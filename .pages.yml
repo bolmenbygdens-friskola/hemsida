@@ -2,6 +2,20 @@ media: static/media
 
 content:
 
+  - name: Index
+    label: index
+    type: file
+    path: content/_index.md
+    fields:
+      - { name: body, label: Body, type: rich-text }
+
+  - name: contact
+    label: Contact
+    type: file
+    path: content/contact.md
+    fields:
+      - { name: body, label: Body, type: rich-text }
+
   - name: posts
     label: Posts
     type: collection
@@ -13,13 +27,6 @@ content:
       - { name: description, label: Description, type: string }
       - { name: date, label: Date, type: date }
       - { name: draft, label: Draft, type: boolean }
-      - { name: body, label: Body, type: rich-text }
-
-  - name: contact
-    label: Contact
-    type: file
-    path: content/contact.md
-    fields:
       - { name: body, label: Body, type: rich-text }
 
   - name: zola-config
