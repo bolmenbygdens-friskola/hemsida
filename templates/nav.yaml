@@ -1,5 +1,11 @@
 - name: Startsida
   link: _index.md
 
+- name: Om skolan
+  link: about.md
+
+- name: Inlägg
+  link: posts/_index.md
+
 - name: Kontakt
   link: contact.md
