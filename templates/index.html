@@ -23,7 +23,7 @@
 
     {{ section.content | safe }}
 
-    <h2>Nyheter</h2>
+    <h1 id="nyheter">Nyheter</h1>
     {% set posts_section = get_section(path="posts/_index.md") %}
     <div id="posts">
         {% for post in posts_section.pages | slice(end=5) %}
