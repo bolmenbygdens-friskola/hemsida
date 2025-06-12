@@ -44,7 +44,6 @@ nav {
 }
 
 main {
-	border-top: var(--line-thickness) solid var(--trans-accent);
 	padding: 2rem;
 	overflow: visible;
 	box-sizing: border-box;
