@@ -52,16 +52,6 @@ main {
 	width: min(100%, 90ch);
 	margin: 0 auto;
 
-	p > img {
-		margin: auto;
-		display: block;
-		max-width: 70%;
-		& + em {
-			display: block;
-			text-align: center;
-		}
-	}
-
 	h1,
 	h2,
 	h3,
@@ -124,5 +114,22 @@ li {
 	margin-top: 1em;
 	&::marker {
 		font-weight: bold;
+	}
+}
+
+figure {
+	margin: 2rem 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	img {
+		width: min(100%, 50ch);
+		height: auto;
+	}
+
+	figcaption {
+		font-style: italic;
+		margin-top: 0.5em;
 	}
 }

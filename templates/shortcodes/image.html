@@ -1,0 +1,13 @@
+<figure>
+    <img
+        src='{{ get_url(path="media/" ~ name) }}'
+        alt='{{ alt }}'
+    >
+    <figcaption>
+        {% if caption %}
+        {{ caption }}
+        {% else %}
+        {{ alt }}
+        {% endif %}
+    </figcaption>
+</figure>
