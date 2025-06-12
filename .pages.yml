@@ -1,13 +1,13 @@
-media: static/
+media: static/media
 
 content:
 
-  - name: content
-    label: Content
+  - name: posts
+    label: Posts
     type: collection
-    path: content/
-    view:
-      fields: [ title, draft, date ]
+    path: content/posts
+    # view:
+    #   fields: [ title, draft, date ]
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: description, label: Description, type: string }
@@ -15,15 +15,15 @@ content:
       - { name: draft, label: Draft, type: boolean }
       - { name: body, label: Body, type: rich-text }
 
-  - name: about
-    label: About page
+  - name: contact
+    label: Contact
     type: file
-    path: content/about.md
+    path: content/contact.md
     fields:
       - { name: body, label: Body, type: rich-text }
 
-  - name: config
-    label: Config
+  - name: zola-config
+    label: Zola config
     type: file
     path: config.toml
     format: toml
