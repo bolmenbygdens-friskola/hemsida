@@ -1,8 +1,9 @@
 :root {
 	--foreground: black;
-	--background: white;
+	--background: #f8fafc;
 	--accent: #b0c4de;
 	--trans-accent: #b0c4decc;
+	--dark-accent: #7d91ab;
 	--line-thickness: round(0.3rem, 1px);
 	font-family: "Hanken Grotesk", sans-serif;
 	font-size: 13pt;
@@ -18,18 +19,17 @@ body {
 
 header {
 	text-align: center;
-	background-image:
-		linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)),
-		url("media/flygfoto.jpg");
-	background-position: center;
-	background-size: cover;
-
 	> a {
 		font-size: 225%;
 		font-weight: bold;
-		display: inline-block;
-		padding: 0.5rem;
-		margin: 1.5rem;
+		display: block;
+		padding: 2rem;
+		background-image:
+			linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)),
+			url("media/flygfoto.jpg");
+		background-size: cover;
+		background-position: center;
+		background-attachment: scroll;
 	}
 
 	a {
@@ -46,7 +46,7 @@ nav {
 	justify-content: center;
 	gap: 2.5rem;
 
-	background-color: var(--trans-accent);
+	background-color: var(--dark-accent);
 
 	> * {
 		opacity: 0.8;
@@ -68,27 +68,36 @@ nav {
 	nav {
 		gap: 0;
 		flex-direction: column;
-		> label {
+		label {
 			display: flex;
 			flex-direction: column;
 			cursor: pointer;
 			align-items: flex-end;
+			gap: 0.5rem;
 			hr {
 				display: block;
 				width: 2rem;
 				height: var(--line-thickness);
 				background-color: var(--background);
-				margin: 0.2rem 0;
+				margin: 0;
 				border: none;
 			}
+		}
+		input:checked ~ label {
+			gap: 1rem;
 		}
 		input:not(:checked) ~ div {
 			display: none;
 		}
-		a {
-			display: block;
-			padding: 1rem;
+		div {
+			margin-top: 1rem;
 			font-size: 120%;
+			border: 0.1rem solid var(--accent);
+			border-radius: 0.3rem;
+			a {
+				display: block;
+				padding: 0.7rem;
+			}
 		}
 	}
 }
