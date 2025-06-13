@@ -18,10 +18,16 @@
     </head>
     <body>
         <header>
-            <a href="{{ get_url(path='@/_index.md') }}" style="font-size: 200%; font-weight: bold;">
+            <a href="{{ get_url(path='@/_index.md') }}">
             {{ config.title }}
             </a>
             <nav role="navigation">
+                <label for="nav-toggle">
+                    <hr>
+                    <hr>
+                    <hr>
+                </label>
+                <input type="checkbox" id="nav-toggle" aria-label="Toggle navigation">
                 {% set items = load_data(path="templates/nav.yaml", format="yaml") %}
                 {%- for item in items %}
                 <div>
