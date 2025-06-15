@@ -2,7 +2,11 @@
 {%- if item.link is matching("https?://") %}
     <a href="{{ item.link | safe }}" target="_blank">{{ item.name | safe }}</a>
 {%- else %}
-    {% set item_url = get_url(path="@/" ~ item.link) %}
+    {% if lang == 'sv' %}
+    {% set item_url = get_url(path='@/' ~ item.link ~ '.md') %}
+    {% else %}
+    {% set item_url = get_url(path='@/' ~ item.link ~ '.' ~ lang ~ '.md') %}
+    {% endif %}
     <a
         href="{{ item_url }}"
         {% if current_url and current_url == item_url %}

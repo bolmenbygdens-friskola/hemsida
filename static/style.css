@@ -36,6 +36,7 @@ header {
 		text-shadow: 0 0 0.5rem black;
 		text-decoration: none;
 		color: white;
+		white-space: nowrap;
 	}
 }
 
@@ -64,6 +65,35 @@ nav {
 	}
 }
 
+#languages {
+	top: 1rem;
+	right:0;
+	height: 1rem;
+	position: absolute;
+	> :first-child {
+		padding: 1rem;
+	}
+	a {
+		padding: 0.5rem;
+	}
+	&:not(:hover) > :not(:first-child) {
+		display: none;
+	}
+	> div {
+		text-align: left;
+		position: absolute;
+		right: 50%;
+		top: 50%;
+		padding: 0.5rem;
+		padding-top: 1rem;
+		z-index: 10;
+		background-color: var(--dark-accent);
+		gap: 0.5rem;
+		display: flex;
+		flex-direction: column;
+	}
+}
+
 @media (max-width: 90ch) {
 	nav {
 		gap: 0;
@@ -89,15 +119,13 @@ nav {
 		input:not(:checked) ~ div {
 			display: none;
 		}
-		div {
+		a {
+			display: block;
+			padding: 0.7rem;
 			margin-top: 1rem;
 			font-size: 120%;
 			border: 0.1rem solid var(--accent);
 			border-radius: 0.3rem;
-			a {
-				display: block;
-				padding: 0.7rem;
-			}
 		}
 	}
 }

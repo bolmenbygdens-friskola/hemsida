@@ -5,7 +5,25 @@
     <p>
         Kunde inte hitta sökt sida.
     </p>
-    <a href="/">
+    <a href="{{get_url(path="@/_index.md")}}">
         Tillbaka till startsidan?
+    </a>
+    <p>
+        The requested page could not be found.
+    </p>
+    <a href="{{get_url(path="@/_index.en.md")}}">
+        Back to the homepage?
+    </a>
+    <p>
+        Die angeforderte Seite konnte nicht gefunden werden.
+    </p>
+    <a href="{{get_url(path="@/_index.de.md")}}">    
+        Zurück zur Startseite?
+    </a>
+    <p>
+        De aangevraagde pagina kon niet worden gevonden.
+    </p>
+    <a href="{{get_url(path="@/_index.nl.md")}}">
+        Terug naar de startpagina?
     </a>
 {% endblock content %}

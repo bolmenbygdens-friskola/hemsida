@@ -18,7 +18,22 @@
     </head>
     <body>
         <header>
-            <a href="{{ get_url(path='@/_index.md') }}">
+            <div id="languages">
+                <a>🌎</a>
+                <div>
+                    <a href="..">🇸🇪 Svenska</a>
+                    <a href="en">🇬🇧 English</a>
+                    <a href="de">🇩🇪 Deutsch</a>
+                    <a href="nl">🇳🇱 Nederlands</a>
+                </div>
+            </div>
+            <a
+            {% if lang == 'sv'%}
+                href="{{ get_url(path='@/_index.md') }}"
+            {% else %}
+                href="{{ get_url(path='@/_index.' ~ lang ~ '.md')}}"
+            {% endif %}
+            >
             {{ config.title }}
             </a>
             <nav role="navigation">
@@ -30,14 +45,12 @@
                 </label>
                 {% set items = load_data(path="templates/nav.yaml", format="yaml") %}
                 {%- for item in items %}
-                <div>
-                    {{ macros::navitem(item=item) }}
-                    {%- if item.subitems %}
-                        {%- for subitem in item.subitems %}
-                            {{ macros::navitem(item=subitem) }}
-                        {%- endfor %}
-                    {%- endif %}
-                </div>
+                {{ macros::navitem(item=item) }}
+                {%- if item.subitems %}
+                    {%- for subitem in item.subitems %}
+                        {{ macros::navitem(item=subitem) }}
+                    {%- endfor %}
+                {%- endif %}
                 {%- endfor %}
             </nav>
         </header>

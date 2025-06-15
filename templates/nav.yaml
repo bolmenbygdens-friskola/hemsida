@@ -1,11 +1,11 @@
 - name: Startsida
-  link: _index.md
+  link: _index
 
 - name: Om skolan
-  link: about.md
+  link: about
 
 - name: Inlägg
-  link: posts/_index.md
+  link: posts/_index
 
 - name: Kontakt
-  link: contact.md
+  link: contact
