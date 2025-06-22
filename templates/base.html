@@ -21,10 +21,27 @@
             <div id="languages">
                 <a>🌎</a>
                 <div>
-                    <a href="..">🇸🇪 Svenska</a>
-                    <a href="en">🇬🇧 English</a>
-                    <a href="de">🇩🇪 Deutsch</a>
-                    <a href="nl">🇳🇱 Nederlands</a>
+                {% if current_path %}
+                    {% set path = current_path %}
+                    {% if path is starting_with('/en/') %}
+                        {% set path = path | trim_start_matches(pat="/en/") %}
+                    {% elif path is starting_with('/de/') %}
+                        {% set path = path | trim_start_matches(pat="/de/") %}
+                    {% elif path is starting_with('/nl/') %}
+                        {% set path = path | trim_start_matches(pat="/nl/") %}
+                    {% else %}
+                        {% set path = path | trim_start_matches(pat="/") %}
+                    {% endif %}
+                    <a href="{{ get_url(path='@/_index.md') }}{{path}}">🇸🇪 Svenska</a>
+                    <a href="{{ get_url(path='@/_index.en.md')}}{{path}}">🇬🇧 English</a>
+                    <a href="{{ get_url(path='@/_index.de.md')}}{{path}}">🇩🇪 Deutsch</a>
+                    <a href="{{ get_url(path='@/_index.nl.md')}}{{path}}">🇳🇱 Nederlands</a>
+                {%- else %}
+                    <a href="{{ get_url(path='@/_index.md') }}">🇸🇪 Svenska</a>
+                    <a href="{{ get_url(path='@/_index.en.md') }}">🇬🇧 English</a>
+                    <a href="{{ get_url(path='@/_index.de.md') }}">🇩🇪 Deutsch</a>
+                    <a href="{{ get_url(path='@/_index.nl.md') }}">🇳🇱 Nederlands</a>
+                {% endif %}
                 </div>
             </div>
             <a
@@ -36,24 +53,24 @@
             >
             {{ config.title }}
             </a>
-            <nav role="navigation">
-                <input type="checkbox" id="nav-toggle" aria-label="Toggle navigation">
-                <label for="nav-toggle">
-                    <hr>
-                    <hr>
-                    <hr>
-                </label>
-                {% set items = load_data(path="templates/nav.yaml", format="yaml") %}
-                {%- for item in items %}
-                {{ macros::navitem(item=item) }}
-                {%- if item.subitems %}
-                    {%- for subitem in item.subitems %}
-                        {{ macros::navitem(item=subitem) }}
-                    {%- endfor %}
-                {%- endif %}
-                {%- endfor %}
-            </nav>
         </header>
+        <nav role="navigation">
+            <input type="checkbox" id="nav-toggle" aria-label="Toggle navigation">
+            <label for="nav-toggle">
+                <hr>
+                <hr>
+                <hr>
+            </label>
+            {% set items = load_data(path="templates/nav.yaml", format="yaml") %}
+            {%- for item in items %}
+            {{ macros::navitem(item=item) }}
+            {%- if item.subitems %}
+                {%- for subitem in item.subitems %}
+                    {{ macros::navitem(item=subitem) }}
+                {%- endfor %}
+            {%- endif %}
+            {%- endfor %}
+        </nav>
 
         <main>
             {% block content %}
