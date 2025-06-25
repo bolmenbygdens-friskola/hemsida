@@ -16,7 +16,7 @@ Ja, alla skolor i Sverige är skyldiga att följa dessa. Det är ingen skillnad 
 
 
 
-## Hur stora grupper arbetar ni med?
+## Hur stora grupper kommer ni att arbeta med?
 
 
 
@@ -46,4 +46,4 @@ Vi kommer att erbjuda ett frivilligt medlemskap. Föreningen kommer att ha en st
 ## Tar ni ut vinst?
 
 
-Nej, vi är en ekonomisk förening och har aldrig och tänker inte ta ut någon vinst. Våra barn förtjänar att vi lägger alla våra pengar på att det ska bli bra för dem. Däremot försöker vi spara pengar vissa år för att kunna jämna ut mellan år och för att kunna satsa extra andra år, t ex i stöd, läromedel eller lokaler.
+Nej, vi är en ekonomisk förening och tänker inte ta ut någon vinst. Våra barn förtjänar att vi lägger alla våra pengar på att det ska bli bra för dem. Däremot kommer vi att försöka spara pengar vissa år för att kunna jämna ut mellan år och för att kunna satsa extra andra år, t ex i stöd, läromedel eller lokaler.
