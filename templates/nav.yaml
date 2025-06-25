@@ -1,7 +1,7 @@
 - name: Startsida
   link: _index
 
-- name: Om skolan
+- name: FAQ
   link: about
 
 - name: Inlägg
