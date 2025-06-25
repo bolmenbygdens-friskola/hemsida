@@ -7,6 +7,8 @@ Bolmenbygdens Friskola är en ny grundskola med plats för trygghet, nyfikenhet 
 
 Hos oss får barn växa i en lugn och inspirerande miljö – med små klasser, nära kontakt mellan elever och vuxna och en undervisning där vatten, berättande och naturen får ta plats varje dag.
 
+Skolan planeras starta höstterminen 2027 - Välkommen med din intresseanmälan!
+
 # Vad gör oss unika?
 🌿 Undervisning i naturmiljö    
     Regelbundna utflykter och lärande i naturen – vid sjön, i skogen och på ängen.
@@ -22,3 +24,5 @@ Vi prioriterar god, näringsrik och lokalproducerad mat.
 
 👨‍👩‍👧‍👦 Trygghet och närhet    
 En liten skola där alla blir sedda och där varje elev får stöd att utvecklas.
+
+
