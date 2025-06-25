@@ -1,4 +1,6 @@
 ---
+---
+
 Här svarar vi på vanliga frågor. Du kan också kontakta oss på info@bolmenbygdensfriskola.se – vi hjälper dig gärna.
 
 
