@@ -2,13 +2,13 @@
 Här svarar vi på vanliga frågor. Du kan också kontakta oss på info@bolmenbygdensfriskola.se – vi hjälper dig gärna.
 
 
-Hur ansöker jag till förskola, skola och fritidshem?
+## Hur ansöker jag till förskola, skola och fritidshem?
 
 Ansökan är ännu inte öppen, men ni kan göra en intresseanmälan via länken här. Då kommer ni få information om när ansökan öppnar!
 
 
 
-Följer ni skollagen, andra lagar och förordningar och de nationella läroplanerna?
+## Följer ni skollagen, andra lagar och förordningar och de nationella läroplanerna?
 
 
 
@@ -16,7 +16,7 @@ Ja, alla skolor i Sverige är skyldiga att följa dessa. Det är ingen skillnad 
 
 
 
-Hur stora grupper arbetar ni med?
+## Hur stora grupper arbetar ni med?
 
 
 
@@ -25,14 +25,14 @@ Vi tycker att det är viktigt att arbeta med grupper och klasser som är små f�
 
 
 
-Kommer ni att erbjuda skolskjuts? 
+## Kommer ni att erbjuda skolskjuts? 
 
 
 
 Ja, Bolmenbygdens friskola kommer att ordna skolskjuts för alla elever. Vi har också för avsikt att möjliggöra turer både från Ljungby och Lagan. 
 
 
-Krävs medlemskap eller arbetsinsats?
+## Krävs medlemskap eller arbetsinsats?
 
 
 
@@ -43,7 +43,7 @@ Vi kommer att erbjuda ett frivilligt medlemskap. Föreningen kommer att ha en st
 
 
 
-Tar ni ut vinst?
+## Tar ni ut vinst?
 
 
 Nej, vi är en ekonomisk förening och har aldrig och tänker inte ta ut någon vinst. Våra barn förtjänar att vi lägger alla våra pengar på att det ska bli bra för dem. Däremot försöker vi spara pengar vissa år för att kunna jämna ut mellan år och för att kunna satsa extra andra år, t ex i stöd, läromedel eller lokaler.
