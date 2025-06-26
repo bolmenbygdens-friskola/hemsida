@@ -22,3 +22,5 @@ We geven voorrang aan lekker, voedzaam en lokaal geproduceerd eten.
 
 👨‍👩‍👧‍👦 Veiligheid en nabijheid    
 Een kleine school waar iedereen wordt gezien en elk kind ondersteuning krijgt om zich te ontwikkelen.
+
+De start van de school is gepland voor de herfst van 2027 - Welkom bij je blijk van belangstelling!
