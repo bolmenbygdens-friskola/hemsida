@@ -40,3 +40,9 @@ Ja, Bolmenbygdens Friskola organiseert schoolvervoer voor alle leerlingen. We zi
 Nee, geen van beide.
 
 We bieden een vrijwillig lidmaatschap aan. De vereniging heeft één keer per jaar een algemene vergadering waar je kunt deelnemen, het bestuur kunt kiezen en informatie kunt krijgen over de activiteiten.
+
+
+## Maken jullie winst?
+
+
+Nee, we zijn een non-profitorganisatie en het is niet onze bedoeling om winst te maken. Onze kinderen verdienen het dat we al ons geld stoppen in het goed maken voor hen. Wel proberen we sommige jaren geld te sparen om de kosten tussen de jaren te verdelen en om in andere jaren extra te kunnen investeren, bijvoorbeeld in ondersteuning, lesmateriaal of lokalen.
