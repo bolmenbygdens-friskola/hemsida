@@ -11,19 +11,19 @@ Skolan planeras starta höstterminen 2027 - Välkommen med din intresseanmälan!
 *(intresseanmälan är inte bindande)*
 
 # Vad gör oss unika?
-- Undervisning i naturmiljö    
+- **Undervisning i naturmiljö**    
     Regelbundna utflykter och lärande i naturen – vid sjön, i skogen och på ängen.
 
-- Fokus på vatten & hållbarhet    
+- **Fokus på vatten & hållbarhet**     
 Vi arbetar ämnesövergripande med vatten, miljö och ekologi som röd tråd.
 
-- Berättande i undervisningen    
+- **Berättande i undervisningen**    
 Barn får uttrycka sig genom muntligt, skriftligt och digitalt berättande – ofta med sjön Bolmen som inspiration.
 
-- Bra mat – varje dag    
+- **Bra mat – varje dag**    
 Vi prioriterar god, näringsrik och lokalproducerad mat.
 
-- Trygghet och närhet    
+- **Trygghet och närhet**    
 En liten skola där alla blir sedda och där varje elev får stöd att utvecklas.
 
 
