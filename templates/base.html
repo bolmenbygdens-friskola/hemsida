@@ -26,7 +26,7 @@
             '
         >
             <div id="languages" tabindex="0">
-                <a>🌎</a>
+                <a>{{ macros::flag() }}</a>
                 <br>
                 <div>
                 {% if current_path %}
@@ -40,15 +40,15 @@
                     {% else %}
                         {% set path = path | trim_start_matches(pat="/") %}
                     {% endif %}
-                    <a href="{{ get_url(path='@/_index.md') }}{{path}}">🇸🇪 Svenska</a>
-                    <a href="{{ get_url(path='@/_index.en.md')}}{{path}}">🇬🇧 English</a>
-                    <a href="{{ get_url(path='@/_index.de.md')}}{{path}}">🇩🇪 Deutsch</a>
-                    <a href="{{ get_url(path='@/_index.nl.md')}}{{path}}">🇳🇱 Nederlands</a>
+                    <a href="{{ get_url(path='@/_index.md') }}{{path}}">&#x1f1f8;&#x1f1ea; Svenska</a>
+                    <a href="{{ get_url(path='@/_index.en.md')}}{{path}}">&#127468;&#127463; English</a>
+                    <a href="{{ get_url(path='@/_index.de.md')}}{{path}}">&#127465;&#127466; Deutsch</a>
+                    <a href="{{ get_url(path='@/_index.nl.md')}}{{path}}">&#127475;&#127473; Nederlands</a>
                 {%- else %}
-                    <a href="{{ get_url(path='@/_index.md') }}"&#x1f1f8;&#x1f1ea; Svenska</a>
-                    <a href="{{ get_url(path='@/_index.en.md') }}"&#127468;&#127463; English</a>
-                    <a href="{{ get_url(path='@/_index.de.md') }}"&#127465;&#127466; Deutsch</a>
-                    <a href="{{ get_url(path='@/_index.nl.md') }}"&#127475;&#127473; Nederlands</a>
+                    <a href="{{ get_url(path='@/_index.md') }}">&#x1f1f8;&#x1f1ea; Svenska</a>
+                    <a href="{{ get_url(path='@/_index.en.md') }}">&#127468;&#127463; English</a>
+                    <a href="{{ get_url(path='@/_index.de.md') }}">&#127465;&#127466; Deutsch</a>
+                    <a href="{{ get_url(path='@/_index.nl.md') }}">&#127475;&#127473; Nederlands</a>
                 {% endif %}
                 </div>
             </div>
@@ -68,6 +68,7 @@
                 <hr>
                 <hr>
             </label>
+            <hr>
             {% set items = load_data(path="templates/nav.yaml", format="yaml") %}
             {%- for item in items %}
             {{ macros::navitem(item=item) }}
