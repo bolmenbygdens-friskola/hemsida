@@ -18,7 +18,7 @@
     </head>
     <body>
         <header>
-            <div id="languages">
+            <div id="languages" tabindex="0">
                 <a>🌎</a>
                 <div>
                 {% if current_path %}
@@ -54,9 +54,8 @@
             <h1>{{ config.title }}</h1>
             </a>
         </header>
-        <nav role="navigation">
-            <input type="checkbox" id="nav-toggle" aria-label="Toggle navigation">
-            <label for="nav-toggle">
+        <nav role="navigation" tabindex="1">
+            <label>
                 <hr>
                 <hr>
                 <hr>
