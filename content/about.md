@@ -1,7 +1,7 @@
 ---
 ---
 
-Här svarar vi på vanliga frågor. Du kan också kontakta oss på info@bolmenbygdensfriskola.se – vi hjälper dig gärna.
+Här svarar vi på vanliga frågor. Du kan också kontakta någon av oss – vi hjälper dig gärna.
 
 
 ## Hur ansöker jag till förskola, skola och fritidshem?
