@@ -11,17 +11,17 @@ The school is planned to start in the fall semester of 2027 - Welcome with your 
 *(registration of interest is not binding)*
 
 # What makes us unique?
-🌿 Learning in natural environments    
+- **Learning in natural environments**    
     Regular excursions and outdoor learning – by the lake, in the forest, and in the meadows.
 
-🌊 Focus on water & sustainability    
+- **Focus on water & sustainability**    
 We work across subjects with water, environment, and ecology as common themes.
 
-📖 Storytelling in education    
+- **Storytelling in education**    
 Children express themselves through oral, written, and digital storytelling – often inspired by Lake Bolmen.
 
-🍽 Good food – every day    
+- **Good food – every day**    
 We prioritize tasty, nutritious, and locally produced meals.
 
-👨‍👩‍👧‍👦 Safety and closeness    
+- **Safety and closeness**    
 A small school where everyone is seen and every child is supported to grow.
