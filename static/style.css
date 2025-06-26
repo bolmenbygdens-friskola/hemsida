@@ -20,9 +20,6 @@ body {
 }
 
 header {
-	background-image:
-		linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)),
-		url("media/IMG_1242.jpg");
 	background-size: cover;
 	background-position: center;
 	background-attachment: scroll;
@@ -45,7 +42,7 @@ header, nav {
 #languages {
 	text-align: right;
 	a {
-		display: block;
+		display: inline-block;
 		padding: 0.5rem;
 	}
 	/* relies on tab-index attribute being set on the HTML tag */
@@ -164,9 +161,6 @@ p {
 }
 
 a {
-	&:hover {
-		outline: 0.1rem solid var(--primary-color);
-	}
 	&:active {
 		scale: 0.98;
 	}

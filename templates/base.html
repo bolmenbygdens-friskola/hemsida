@@ -17,7 +17,14 @@
         {% block xhead %}{% endblock xhead %}
     </head>
     <body>
-        <header>
+        {% set banner_image_path = "media/IMG_1242.jpg" %}
+        {% set banner_image = resize_image(path=banner_image_path, width=1000, op="fit_width") %}
+        <header style='
+           background-image:
+              linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)),
+              url("{{banner_image.url}}");
+            '
+        >
             <div id="languages" tabindex="0">
                 <a>🌎</a>
                 <br>
@@ -38,10 +45,10 @@
                     <a href="{{ get_url(path='@/_index.de.md')}}{{path}}">🇩🇪 Deutsch</a>
                     <a href="{{ get_url(path='@/_index.nl.md')}}{{path}}">🇳🇱 Nederlands</a>
                 {%- else %}
-                    <a href="{{ get_url(path='@/_index.md') }}">🇸🇪 Svenska</a>
-                    <a href="{{ get_url(path='@/_index.en.md') }}">🇬🇧 English</a>
-                    <a href="{{ get_url(path='@/_index.de.md') }}">🇩🇪 Deutsch</a>
-                    <a href="{{ get_url(path='@/_index.nl.md') }}">🇳🇱 Nederlands</a>
+                    <a href="{{ get_url(path='@/_index.md') }}"&#x1f1f8;&#x1f1ea; Svenska</a>
+                    <a href="{{ get_url(path='@/_index.en.md') }}"&#127468;&#127463; English</a>
+                    <a href="{{ get_url(path='@/_index.de.md') }}"&#127465;&#127466; Deutsch</a>
+                    <a href="{{ get_url(path='@/_index.nl.md') }}"&#127475;&#127473; Nederlands</a>
                 {% endif %}
                 </div>
             </div>
