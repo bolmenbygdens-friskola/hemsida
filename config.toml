@@ -4,16 +4,16 @@ minify_html = true
 build_search_index = true
 
 default_language = "sv"
-title = "BOLMENBYGDENS FRISKOLA"
+title = "Bolmenbygdens Friskola"
 
 [languages.en]
-title = "BOLMENBYGDENS FRISKOLA"
+title = "Bolmenbygdens Friskola"
 
 [languages.de]
-title = "BOLMENBYGDENS FRISKOLA"
+title = "Bolmenbygdens Friskola"
 
 [languages.nl]
-title = "BOLMENBYGDENS FRISKOLA"
+title = "Bolmenbygdens Friskola"
 
 [markdown]
 external_links_target_blank = true

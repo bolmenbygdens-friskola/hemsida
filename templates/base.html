@@ -20,6 +20,7 @@
         <header>
             <div id="languages" tabindex="0">
                 <a>🌎</a>
+                <br>
                 <div>
                 {% if current_path %}
                     {% set path = current_path %}
@@ -51,7 +52,7 @@
                 href="{{ get_url(path='@/_index.' ~ lang ~ '.md')}}"
             {% endif %}
             >
-            <h1>{{ config.title }}</h1>
+            <h1>{{ config.title | upper }}</h1>
             </a>
         </header>
         <nav role="navigation" tabindex="1">
