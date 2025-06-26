@@ -30,7 +30,8 @@
 
     {{ section.content | safe }}
 
-    <h1 id="nyheter">Nyheter</h1>
+<!--   
+<h1 id="nyheter">Nyheter</h1>
     {% set posts_section = get_section(path="posts/_index.md") %}
     <div id="posts">
     {% for post in posts_section.pages | slice(end=5) %}
@@ -43,6 +44,7 @@
             <div style="justify-self:right; align-self:end;">{{ post.date }}</div>
     </a>
     {% endfor %}
-    </div>
+    </div> 
+-->
 
 {% endblock content %}
