@@ -1,4 +1,4 @@
-base_url = "https://bolmso.samake.se/"
+base_url = "https://bolmenbygdensfriskola.se/"
 
 minify_html = true
 build_search_index = true
