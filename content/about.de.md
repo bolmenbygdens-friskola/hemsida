@@ -41,3 +41,8 @@ Nein, weder noch.
 
 Wir werden eine freiwillige Mitgliedschaft anbieten. Der Verein wird einmal im Jahr eine Mitgliederversammlung abhalten, an der Sie teilnehmen können, um den Vorstand zu wählen und Informationen über die Aktivitäten zu erhalten.
 
+
+## Erzielen Sie einen Gewinn?
+
+
+Nein, wir sind eine gemeinnützige Organisation und haben nicht die Absicht, Gewinn zu machen. Unsere Kinder haben es verdient, dass wir unser ganzes Geld dafür ausgeben, dass es ihnen gut geht. Wir werden jedoch versuchen, in manchen Jahren Geld zu sparen, um die Ausgaben zwischen den Jahren auszugleichen und in anderen Jahren mehr investieren zu können, zum Beispiel in Unterstützung, Lehrmaterial oder Räumlichkeiten.
