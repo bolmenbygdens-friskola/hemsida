@@ -33,6 +33,7 @@ header {
 }
 
 header, nav {
+	font-family: "Lexend", sans-serif;
 	text-align: center;
 	a {
 		color: var(--background-color);
