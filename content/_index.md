@@ -11,7 +11,7 @@ Skolan planeras starta höstterminen 2027 - Välkommen med din intresseanmälan!
 *(intresseanmälan är inte bindande)*
 
 # Vad gör oss unika?
-🌿 Undervisning i naturmiljö    
+- Undervisning i naturmiljö    
     Regelbundna utflykter och lärande i naturen – vid sjön, i skogen och på ängen.
 
 🌊 Fokus på vatten & hållbarhet    
