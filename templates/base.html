@@ -1,7 +1,13 @@
 {% import "macros.html" as macros %}
+{% set lang = "sv" %}
+{% if page %}
+{% set lang = page.lang %}
+{% elif section %}
+{% set lang = section.lang %}
+{% endif %}
 
 <!DOCTYPE html>
-<html lang="sv">
+<html lang="{{lang}}">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +32,7 @@
             '
         >
             <div id="languages" tabindex="0">
-                <a>{{ macros::flag() }}</a>
+                <a>{{ macros::flag(lang=lang) }}</a>
                 <br>
                 <div>
                 {% if current_path %}

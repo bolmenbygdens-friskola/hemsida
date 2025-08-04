@@ -19,24 +19,13 @@
 {% endmacro navitem %}
 
 {% macro flag () %}
-{% if page and page.lang == 'sv' %}
+{% if lang == 'sv' %}
 &#x1f1f8;&#x1f1ea;
-{% elif page and page.lang == 'en' %}
+{% elif lang == 'en' %}
 &#127468;&#127463;
-{% elif page and page.lang == 'de' %}
+{% elif lang == 'de' %}
 &#127465;&#127466;
-{% elif page and page.lang == 'nl' %}
+{% elif lang == 'nl' %}
 &#127475;&#127473;
-{% elif section and section.lang == 'sv' %}
-&#x1f1f8;&#x1f1ea;
-{% elif section and section.lang == 'en' %}
-&#127468;&#127463;
-{% elif section and section.lang == 'de' %}
-&#127465;&#127466;
-{% elif section and section.lang == 'nl' %}
-&#127475;&#127473;
-{% else %}
-{# default to swedish #}
-&#x1f1f8;&#x1f1ea;
 {% endif %}
 {% endmacro flag %}
