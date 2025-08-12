@@ -13,7 +13,7 @@ De inschrijving is nog niet geopend, maar je kunt je interesse registreren via d
 
 
 
-Ja, alle scholen in Zweden zijn verplicht zich hieraan te houden. Er is geen verschil tussen gemeentelijke en onafhankelijke scholen. De Zweedse Schoolinspectie en de gemeente Ljungby houden toezicht op onze activiteiten door middel van inspecties en enquêtes onder leerlingen, voogden en personeel. Lees de laatste resultaten hier en hier.
+Ja, alle scholen in Zweden zijn verplicht zich hieraan te houden. Er is geen verschil tussen gemeentelijke en onafhankelijke scholen. De Zweedse Schoolinspectie en de gemeente Ljungby houden toezicht op onze activiteiten door middel van inspecties en enquêtes onder leerlingen, voogden en personeel. 
 
 
 
