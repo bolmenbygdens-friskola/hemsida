@@ -13,7 +13,7 @@ Die Bewerbungsphase ist noch nicht eröffnet, aber Sie können Ihr Interesse üb
 
 
 
-Ja, alle Schulen in Schweden sind verpflichtet, diese einzuhalten. Es gibt keinen Unterschied zwischen kommunalen und unabhängigen Schulen. Die schwedische Schulaufsichtsbehörde und die Gemeinde Ljungby überwachen unsere Aktivitäten sowohl durch Inspektionen als auch durch Umfragen bei Schülern, Erziehungsberechtigten und Mitarbeitern. Lesen Sie die neuesten Ergebnisse hier und hier.
+Ja, alle Schulen in Schweden sind verpflichtet, diese einzuhalten. Es gibt keinen Unterschied zwischen kommunalen und unabhängigen Schulen. Die schwedische Schulaufsichtsbehörde und die Gemeinde Ljungby überwachen unsere Aktivitäten sowohl durch Inspektionen als auch durch Umfragen bei Schülern, Erziehungsberechtigten und Mitarbeitern. 
 
 
 
