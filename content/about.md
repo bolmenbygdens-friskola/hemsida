@@ -14,7 +14,7 @@ Ansökan är ännu inte öppen, men ni kan göra en intresseanmälan via länken
 
 
 
-Ja, alla skolor i Sverige är skyldiga att följa dessa. Det är ingen skillnad på kommunala eller fristående skolor. Skolinspektionen och Ljungby kommun följer vår verksamhet både genom inspektioner och genom enkäter till elever, vårdnadshavare och personal. Läs senaste resultaten här och här.
+Ja, alla skolor i Sverige är skyldiga att följa dessa. Det är ingen skillnad på kommunala eller fristående skolor. Skolinspektionen och Ljungby kommun följer vår verksamhet både genom inspektioner och genom enkäter till elever, vårdnadshavare och personal. 
 
 
 
