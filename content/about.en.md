@@ -8,8 +8,7 @@ Here we answer frequently asked questions. You can also contact one of us - we w
 The application is not yet open, but you can register your interest via the link here. You will then be informed when the application opens!
 
 ## Do you follow the Education Act, other laws and regulations and the national curricula?
-Yes, all schools in Sweden are obliged to follow these. There is no difference between municipal and independent schools. The Swedish Schools Inspectorate and Ljungby municipality monitor our activities both through inspections and through surveys of pupils, guardians and staff. Read the latest results here and here.
-
+Yes, all schools in Sweden are obliged to follow these. There is no difference between municipal and independent schools. The Swedish Schools Inspectorate and Ljungby municipality monitor our activities both through inspections and through surveys of pupils, guardians and staff. 
 ## How large groups will you work with?
 We think it is important to work with groups and classes that are small in order for it to be calm and for each child to learn as much as possible. This is also supported by research.
 
