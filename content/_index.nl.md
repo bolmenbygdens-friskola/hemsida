@@ -8,8 +8,8 @@ Bolmenbygdens Friskola is een nieuwe basisschool met ruimte voor veiligheid, nie
 Bij ons groeien kinderen op in een rustige en inspirerende omgeving – met kleine klassen, nauwe band tussen leerlingen en volwassenen, en onderwijs waarin water, verhalen en de natuur elke dag centraal staan.
 
 
-De start van de school is gepland voor de herfst van 2027 - Welkom bij je blijk van belangstelling!  
-*(registratie van interesse is niet bindend)*
+De school zal naar verwachting in het najaar van 2027 van start gaan. Om op de hoogte te blijven van het proces, kunt u uw interesse kenbaar maken via bovenstaande link.  
+*(Dit is geen aanmelding voor de school, dat gebeurt in een later stadium.)*
 
 
 # Wat maakt ons uniek?
