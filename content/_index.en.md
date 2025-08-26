@@ -7,8 +7,8 @@ Bolmenbygdens Friskola is a new elementary school that offers a safe space for c
 
 With us, children grow in a calm and inspiring environment – with small class sizes, close relationships between students and adults, and a curriculum where water, storytelling, and nature are part of every day.
 
-The school is planned to start in the fall semester of 2027 - Welcome with your expression of interest!  
-*(registration of interest is not binding)*
+The school is scheduled to open in the autumn term of 2027. To stay up to date on the process, register your interest via the link above!  
+*(Registration is not an application to the school; that will come at a later stage.)*
 
 # What makes us unique?
 - **Learning in natural environments**    
