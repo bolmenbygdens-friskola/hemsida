@@ -27,7 +27,7 @@
         {% set banner_image = resize_image(path=banner_image_path, width=1000, op="fit_width") %}
         <header style='
            background-image:
-              linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)),
+              linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)),
               url("{{banner_image.url}}");
             '
         >
@@ -66,6 +66,7 @@
             {% endif %}
             >
             <h1>{{ config.title | upper }}</h1>
+            <div>~ Trygghet ~ Tillsammans ~ Nära ~</div>
             </a>
         </header>
         <nav role="navigation" tabindex="1">
