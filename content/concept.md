@@ -9,14 +9,14 @@ Bolmenbygdens friskola är en trygg, engagerad och nära skola som erbjuder en u
 Vi välkomnar elever från förskoleklass till årskurs 6 och skapar en skola där varje individ blir sedd och får stöd att utvecklas tillsammans med engagerade lärare, i nära samarbete med hem och lokalsamhälle.
 
 ## En tydlig profil för ett meningsfullt lärande
-**Vatten som lärmiljö och kunskapsområde**
+**Vatten som lärmiljö och kunskapsområde**  
 Genom att arbeta tvärvetenskapligt med vatten som utgångspunkt får eleverna en djupare förståelse för dess ekologiska, historiska och samhälleliga betydelse. Med fältstudier, praktiska projekt och samarbete med lokala aktörer skapar vi en unik möjlighet att omsätta kunskap i handling och bidra till hållbar utveckling.  
   
-**Berättande som pedagogiskt verktyg**
+**Berättande som pedagogiskt verktyg**  
 Berättandet stärker språket, kreativiteten och identiteten. Eleverna får uttrycka sig muntligt, skriftligt och konstnärligt, med inspiration från den lokala berättarkulturen. Detta främjar både personlig utveckling och ämnesövergripande lärande.  
 
   
-**Naturmiljön som levande klassrum**  
+**Naturmiljön som levande klassrum**    
 Naturen är en aktiv del av vår undervisning – här ges eleverna möjlighet att lära genom rörelse, upplevelser och praktiska experiment. Vi använder årstidernas skiftningar och närområdets naturresurser för att skapa sammanhang och kopplingar till hållbarhet, hälsa och gemenskap.  
 
 
