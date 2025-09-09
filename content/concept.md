@@ -8,7 +8,7 @@
 Bolmenbygdens friskola är en trygg, engagerad och nära skola som erbjuder en utbildning där naturen, berättandet och vattnet i sjön Bolmen spelar en central roll. Vår ambition är att varje elev ska växa i kunskap, nyfikenhet och ansvar i en stimulerande miljö där teori och praktik möts i verkliga sammanhang.
 Vi välkomnar elever från förskoleklass till årskurs 6 och skapar en skola där varje individ blir sedd och får stöd att utvecklas tillsammans med engagerade lärare, i nära samarbete med hem och lokalsamhälle.
 
-#### En tydlig profil för ett meningsfullt lärande
+### En tydlig profil för ett meningsfullt lärande
 **Vatten som lärmiljö och kunskapsområde**  
 Genom att arbeta tvärvetenskapligt med vatten som utgångspunkt får eleverna en djupare förståelse för dess ekologiska, historiska och samhälleliga betydelse. Med fältstudier, praktiska projekt och samarbete med lokala aktörer skapar vi en unik möjlighet att omsätta kunskap i handling och bidra till hållbar utveckling.  
   
@@ -20,7 +20,7 @@ Berättandet stärker språket, kreativiteten och identiteten. Eleverna får utt
 Naturen är en aktiv del av vår undervisning – här ges eleverna möjlighet att lära genom rörelse, upplevelser och praktiska experiment. Vi använder årstidernas skiftningar och närområdets naturresurser för att skapa sammanhang och kopplingar till hållbarhet, hälsa och gemenskap.  
 
 
-#### Vårt uppdrag och våra mål
+### Vårt uppdrag och våra mål
 Vi  erbjuder varje elev:  
 - En trygg och stimulerande skolgång med goda möjligheter att inhämta och utveckla kunskaper och värden enligt skollag och läroplan.  
 - En helhetssyn på lärande där vatten, berättande och naturmiljö skapar relevans och engagemang.  
@@ -29,7 +29,7 @@ Vi  erbjuder varje elev:
 - En grund för ett aktivt friluftsliv och hållbar livsstil.  
 - Trygghet och självförtroende som förbereder eleven för vidare utbildning och livets utmaningar.  
 
-#### Värdeorden som styr vår verksamhet  
+### Värdeorden som styr vår verksamhet  
   
 **Trygghet** – Vi bygger skolan på en stabil grund där varje elev känner sig sedd, respekterad och trygg att utvecklas.  
 **Tillsammans** – Skolan är en gemenskap där elever, personal, vårdnadshavare och lokalsamhälle samarbetar för bästa lärmiljö.  
