@@ -6,47 +6,48 @@ Här svarar vi på vanliga frågor. Du kan också kontakta någon av oss – vi 
 
 ## Hur ansöker jag till förskola, skola och fritidshem?
 
-Ansökan är ännu inte öppen, men ni kan göra en intresseanmälan via länken här. Då kommer ni få information om när ansökan öppnar!
+Verksamhetsidé för Bolmenbygdens friskola
+– med profilering Vatten, Berättande och Lärande i Naturmiljö
+Bolmenbygdens friskola är en trygg, engagerad och nära skola som erbjuder en utbildning där naturen, berättandet och vattnet i sjön Bolmen spelar en central roll. Vår ambition är att varje elev ska växa i kunskap, nyfikenhet och ansvar i en stimulerande miljö där teori och praktik möts i verkliga sammanhang.
+Vi välkomnar elever från förskoleklass till årskurs 6 och skapar en skola där varje individ blir sedd och får stöd att utvecklas tillsammans med engagerade lärare, i nära samarbete med hem och lokalsamhälle.
 
+En tydlig profil för ett meningsfullt lärande
+Vatten som lärmiljö och kunskapsområde
+Genom att arbeta tvärvetenskapligt med vatten som utgångspunkt får eleverna en djupare förståelse för dess ekologiska, historiska och samhälleliga betydelse. Med fältstudier, praktiska projekt och samarbete med lokala aktörer skapar vi en unik möjlighet att omsätta kunskap i handling och bidra till hållbar utveckling.
+Berättande som pedagogiskt verktyg
+Berättandet stärker språket, kreativiteten och identiteten. Eleverna får uttrycka sig muntligt, skriftligt och konstnärligt, med inspiration från den lokala berättarkulturen. Detta främjar både personlig utveckling och ämnesövergripande lärande.
+Naturmiljön som levande klassrum
+Naturen är en aktiv del av vår undervisning – här ges eleverna möjlighet att lära genom rörelse, upplevelser och praktiska experiment. Vi använder årstidernas skiftningar och närområdets naturresurser för att skapa sammanhang och kopplingar till hållbarhet, hälsa och gemenskap. 
 
+Vårt uppdrag och våra mål
+Vi  erbjuder varje elev:
+En trygg och stimulerande skolgång med goda möjligheter att inhämta och utveckla kunskaper och värden enligt skollag och läroplan.
+En helhetssyn på lärande där vatten, berättande och naturmiljö skapar relevans och engagemang.
+Möjlighet till utforskande och praktiskt arbete med verklighetsanknytning.
+Stöd att utveckla sin kommunikativa förmåga och kreativitet.
+En grund för ett aktivt friluftsliv och hållbar livsstil.
+Trygghet och självförtroende som förbereder eleven för vidare utbildning och livets utmaningar.
 
-## Följer ni skollagen, andra lagar och förordningar och de nationella läroplanerna?
+Värdeorden som styr vår verksamhet
+Trygghet – Vi bygger skolan på en stabil grund där varje elev känner sig sedd, respekterad och trygg att utvecklas.
+Tillsammans – Skolan är en gemenskap där elever, personal, vårdnadshavare och lokalsamhälle samarbetar för bästa lärmiljö.
+Nära – Med mindre grupper och lokala samarbeten är vi lyhörda för elevernas behov och intressen, och kan anpassa verksamheten därefter.
 
+Vi vill vara en friskola som kompletterar och förstärker det kommunala skolsystemet genom att erbjuda en unik profil och en stark lokal förankring. Genom nära samarbete med kommunen och andra aktörer bidrar vi till elevernas bästa och en levande bygd.
 
-
-Ja, alla skolor i Sverige är skyldiga att följa dessa. Det är ingen skillnad på kommunala eller fristående skolor. Skolinspektionen och Ljungby kommun följer vår verksamhet både genom inspektioner och genom enkäter till elever, vårdnadshavare och personal. 
-
-
-
-## Hur stora grupper kommer ni att arbeta med?
-
-
-
-Vi tycker att det är viktigt att arbeta med grupper och klasser som är små för att det ska vara lugnt och att varje barn ska lära sig så mycket som möjligt. Detta stöds även av forskningen. 
-
-
-
-
-## Kommer ni att erbjuda skolskjuts? 
-
-
-
-Ja, Bolmenbygdens friskola kommer att ordna skolskjuts för alla elever. Vi har också för avsikt att möjliggöra turer både från Ljungby och Lagan. 
-
-
-## Krävs medlemskap eller arbetsinsats?
-
-
-
-Nej, ingetdera.
-
-Vi kommer att erbjuda ett frivilligt medlemskap. Föreningen kommer att ha en stämma en gång per år där man kan vara med och välja styrelse och få information om verksamheten. 
+Bolmenbygdens friskola – där lärandet växer med naturen som vägvisare.
 
 
 
 
-## Tar ni ut vinst?
 
 
-Nej, vi är en ekonomisk förening och tänker inte ta ut någon vinst. Våra barn förtjänar att vi lägger alla våra pengar på att det ska bli bra för dem. Däremot kommer vi att försöka spara pengar vissa år för att kunna jämna ut mellan år och för att kunna satsa extra andra år, t ex i stöd, läromedel eller lokaler.
+
+
+
+
+
+
+
+
 
