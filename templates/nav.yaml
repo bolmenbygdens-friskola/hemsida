@@ -1,5 +1,8 @@
 - name: Startsida
-  link: _index
+  link: _index  
+
+- name: Verksamhetsidé
+  link: concept
 
 - name: FAQ
   link: about
