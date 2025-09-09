@@ -3,7 +3,7 @@
 
 
 ## Verksamhetsidé för Bolmenbygdens friskola  
-– med profilering Vatten, Berättande och Lärande i Naturmiljö  
+** – med profilering Vatten, Berättande och Lärande i Naturmiljö **   
   
 Bolmenbygdens friskola är en trygg, engagerad och nära skola som erbjuder en utbildning där naturen, berättandet och vattnet i sjön Bolmen spelar en central roll. Vår ambition är att varje elev ska växa i kunskap, nyfikenhet och ansvar i en stimulerande miljö där teori och praktik möts i verkliga sammanhang.
 Vi välkomnar elever från förskoleklass till årskurs 6 och skapar en skola där varje individ blir sedd och får stöd att utvecklas tillsammans med engagerade lärare, i nära samarbete med hem och lokalsamhälle.
