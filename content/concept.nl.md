@@ -9,8 +9,8 @@ We verwelkomen leerlingen van de kleuterschool tot en met groep 6 en creëren ee
 
 ### Een duidelijk profiel voor zinvol leren
 **Water als leeromgeving en kennisgebied**     
-Door interdisciplinair te werken met water als uitgangspunt krijgen de leerlingen een dieper inzicht in de ecologische, historische en maatschappelijke betekenis ervan. Met veldstudies, praktische projecten en samenwerking met lokale actoren creëren we een unieke kans om kennis om te zetten in actie en bij te dragen aan duurzame ontwikkeling. 
-**Verhalen vertellen als pedagogisch hulpmiddel**   
+Door interdisciplinair te werken met water als uitgangspunt krijgen de leerlingen een dieper inzicht in de ecologische, historische en maatschappelijke betekenis ervan. Met veldstudies, praktische projecten en samenwerking met lokale actoren creëren we een unieke kans om kennis om te zetten in actie en bij te dragen aan duurzame ontwikkeling.   
+**Verhalen vertellen als pedagogisch hulpmiddel**     
 Verhalen vertellen versterkt de taal, creativiteit en identiteit. Leerlingen kunnen zich mondeling, schriftelijk en artistiek uitdrukken, geïnspireerd door de lokale verteltraditie. Dit bevordert zowel persoonlijke ontwikkeling als vakoverschrijdend leren. 
 
 **De natuurlijke omgeving als levend klaslokaal**   
