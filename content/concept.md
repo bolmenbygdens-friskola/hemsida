@@ -21,7 +21,7 @@ Naturen är en aktiv del av vår undervisning – här ges eleverna möjlighet a
 
 
 ## Vårt uppdrag och våra mål
-Vi  erbjuder varje elev:
+Vi  erbjuder varje elev:  
 En trygg och stimulerande skolgång med goda möjligheter att inhämta och utveckla kunskaper och värden enligt skollag och läroplan.
 En helhetssyn på lärande där vatten, berättande och naturmiljö skapar relevans och engagemang.
 Möjlighet till utforskande och praktiskt arbete med verklighetsanknytning.
