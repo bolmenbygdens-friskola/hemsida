@@ -25,3 +25,6 @@ Wir legen Wert auf schmackhafte, nahrhafte und lokal produzierte Mahlzeiten.
 
 - **Geborgenheit und Nähe**    
 Eine kleine Schule, in der alle gesehen werden und jeder Unterstützung zur Entwicklung erhält.
+
+- **Sichere Schulbeförderung – direkt von zu Hause aus**  
+Wir glauben an eine enge Beziehung zwischen Schule und Zuhause, und das beginnt bereits mit der ersten Fahrt am Morgen.
