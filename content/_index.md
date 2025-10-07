@@ -7,7 +7,8 @@ Bolmenbygdens Friskola är en ny grundskola med plats för trygghet, nyfikenhet 
 
 Hos oss får barn växa i en lugn och inspirerande miljö – med små klasser, nära kontakt mellan elever och vuxna och en undervisning där vatten, berättande och naturen får ta plats varje dag.
 
-Skolan planeras starta höstterminen 2027 - För att hålla dig uppdaterad om processen, anmäl intresse via länken ovan!  
+Skolan planeras starta höstterminen 2027 - För att hålla dig uppdaterad om processen, [klicka här för att anmäla dig till vårt nyhetsbrev!](https://gansub.com/s/fmCU31WC5wQcI/) 
+Anmäl intresse för ditt/dina barn via länken ovan!  
 *(anmälan är inte en anmälan till skolan, det kommer i ett senare skede)*
 
 # Vad gör oss unika?
@@ -30,7 +31,6 @@ En liten skola där alla blir sedda och där varje elev får stöd att utvecklas
 Vi tror på en nära relation mellan skola och hem och det börjar	redan på morgonens första tur.
 
 
- ## [Klicka här för att anmäla dig till vårt nyhetsbrev!](https://gansub.com/s/fmCU31WC5wQcI/)  
 
 
 
