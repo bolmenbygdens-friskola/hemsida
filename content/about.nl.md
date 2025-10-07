@@ -31,6 +31,7 @@ We vinden het belangrijk om met kleine groepen en klassen te werken om de rust t
 
 
 Ja, Bolmenbygdens Friskola organiseert schoolvervoer voor alle leerlingen. We zijn ook van plan om uitstapjes vanuit Ljungby en Lagan mogelijk te maken. 
+Wij bieden een schoolbusconcept dat het dagelijks leven voor zowel kinderen als ouders gemakkelijker maakt. Wij halen de leerlingen 's ochtends direct bij hen thuis op. Onze schoolbussen worden bestuurd door betrouwbare volwassenen met een goede lokale kennis, wat elke dag zorgt voor een persoonlijke en veilige reis. 's Middags worden de kinderen weer thuis afgezet, zodat de dag rustig en veilig kan worden afgesloten.
 
 
 ## Is lidmaatschap of werk vereist?
