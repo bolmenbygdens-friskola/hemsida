@@ -14,6 +14,7 @@ We think it is important to work with groups and classes that are small in order
 
 ## Will you offer school transportation?
 Yes, Bolmenbygdens Friskola will arrange school transportation for all students. We also intend to enable trips from both Ljungby and Lagan.
+We offer a school transport concept that makes everyday life easier for both children and parents. We pick up the pupils directly from their homes in the morning. Our school buses are driven by reliable adults with good local knowledge, which ensures a personal and safe journey every day. In the afternoon, the children are dropped off back at their homes, so that the day ends in a calm and safe manner.
 
 ## Is membership or work effort required?
 No, neither.
