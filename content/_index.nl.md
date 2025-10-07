@@ -10,7 +10,7 @@ Bij ons groeien kinderen op in een rustige en inspirerende omgeving – met klei
 
 De school is gepland om in het najaar van 2027 van start te gaan. Om op de hoogte te blijven van het proces, [klik hier om je aan te melden voor onze nieuwsbrief!](https://gansub.com/s/fmCU31WC5wQcI/)   
 
-Meld uw interesse voor uw kind(eren) aan via de bovenstaande link!  
+Meld uw interesse voor uw kind(eren) aan via de link ‘Meld uw interesse’ hierboven!  
 *(aanmelden is nog geen inschrijving voor de school, dat gebeurt in een later stadium)*
 
 
