@@ -26,4 +26,8 @@ Vi prioriterar god, näringsrik och lokalproducerad mat.
 - **Trygghet och närhet**    
 En liten skola där alla blir sedda och där varje elev får stöd att utvecklas.
 
+- **Trygg skolskjuts – direkt från hemmet**
+Vi tror på en nära relation mellan skola och hem och det börjar	redan på morgonens första tur.
+
+
 
