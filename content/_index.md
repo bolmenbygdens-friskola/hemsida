@@ -32,6 +32,7 @@ En liten skola där alla blir sedda och där varje elev får stöd att utvecklas
 Vi tror på en nära relation mellan skola och hem och det börjar	redan på morgonens första tur.
 
 ![Logga](/static/media/Bolmenbygdens Friskola B blå.png "Logga")
+static/media/Bolmenbygdens Friskola B blå.png
 
 
 
