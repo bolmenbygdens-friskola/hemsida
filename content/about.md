@@ -31,7 +31,8 @@ Vi tycker att det är viktigt att arbeta med grupper och klasser som är små f�
 
 
 
-Ja, Bolmenbygdens friskola kommer att ordna skolskjuts för alla elever. Vi har också för avsikt att möjliggöra turer både från Ljungby och Lagan. 
+Ja, Bolmenbygdens friskola kommer att ordna skolskjuts för alla elever. Vi har också för avsikt att möjliggöra turer både från Ljungby och Lagan. Vi erbjuder ett skolskjutskoncept som gör vardagen enklare för både barn och föräldrar. Vi hämtar eleverna direkt vid hemmet på morgonen.
+Våra skolskjutsar körs av trygga vuxna med god lokal kännedom, vilket skapar en personlig och säker resa varje dag. På eftermiddagen lämnas barnen tillbaka vid hemmet, så att dagen får en lugn och trygg avslutning.
 
 
 ## Krävs medlemskap eller arbetsinsats?
