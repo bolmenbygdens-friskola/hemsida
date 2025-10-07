@@ -25,3 +25,6 @@ We prioritize tasty, nutritious, and locally produced meals.
 
 - **Safety and closeness**    
 A small school where everyone is seen and every child is supported to grow.
+
+- **Safe school transport – directly from home**
+We believe in a close relationship between school and home, and that starts with the first journey of the morning.
