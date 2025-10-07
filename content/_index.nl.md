@@ -28,4 +28,7 @@ We geven voorrang aan lekker, voedzaam en lokaal geproduceerd eten.
 - **Veiligheid en nabijheid**    
 Een kleine school waar iedereen wordt gezien en elk kind ondersteuning krijgt om zich te ontwikkelen.
 
+- **Veilig schoolvervoer – rechtstreeks vanuit huis**  
+Wij geloven in een nauwe band tussen school en thuis, en dat begint al bij de eerste rit in de ochtend.
+
 
