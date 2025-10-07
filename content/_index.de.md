@@ -7,8 +7,10 @@ Die Bolmenbygdens Friskola ist eine neue Grundschule, die Raum für Geborgenheit
 
 Bei uns wachsen Kinder in einer ruhigen und inspirierenden Umgebung auf – mit kleinen Klassen, engem Kontakt zwischen Schülerinnen und Erwachsenen sowie einem Unterricht, in dem Wasser, Geschichten und die Natur täglich im Mittelpunkt stehen.
 
-Die Schule soll im Herbstsemester 2027 eröffnet werden. Um über den aktuellen Stand informiert zu bleiben, melden Sie Ihr Interesse über den obigen Link an!  
-*(Die Anmeldung ist keine Anmeldung für die Schule, diese erfolgt zu einem späteren Zeitpunkt.)*
+Die Schule soll im Herbstsemester 2027 ihren Betrieb aufnehmen. Um über den aktuellen Stand informiert zu bleiben, [klicken Sie hier, um sich für unseren Newsletter anzumelden!](https://gansub.com/s/fmCU31WC5wQcI/)   
+
+Melden Sie Ihr Interesse für Ihr(e) Kind(er) über den obigen Link an!  
+*(Die Anmeldung ist keine Anmeldung für die Schule, diese erfolgt zu einem späteren Zeitpunkt)*
 
 # Was macht uns besonders?
 - **Unterricht in der Natur**    
