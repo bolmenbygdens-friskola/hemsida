@@ -15,15 +15,12 @@
             {% if page.title %}{{ page.title }} -{% endif %}
         {{ config.title }}</title>
         <meta name="description" content="{% block description %}{{ config.description }}{% endblock %}">
-        <link rel="icon" href="{{ get_url(path='logo.png') }}" type="image/png">
+        <link rel="icon" href="{{ get_url(path='media/logo_a_beige_notext.png') }}" type="image/png">
         <link rel="stylesheet" href="{{ get_url(path='style.css') }}" type="text/css">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lexend:wght@100..900&display=swap" rel="stylesheet">
         {% block xhead %}{% endblock xhead %}
-
-
-    
     </head>
     <body>
         {% set banner_image_path = "media/IMG_bg2.jpg" %}
@@ -68,8 +65,11 @@
                 href="{{ get_url(path='@/_index.' ~ lang ~ '.md')}}"
             {% endif %}
             >
-            <h1>{{ config.title | upper }}</h1>
-            <div>~ Trygghet ~ Tillsammans ~ Nära ~</div>
+            <img src="{{ get_url(path='media/logo_a_beige_notext.png') }}" height="100" width="100">
+            <div>
+                <h1>{{ config.title | upper }}</h1>
+                <div>~ Trygghet ~ Tillsammans ~ Nära ~</div>
+            </div>
             </a>
         </header>
         <nav role="navigation" tabindex="1">
