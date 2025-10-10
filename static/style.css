@@ -25,10 +25,11 @@ header {
 	background-attachment: scroll;
 	> a{
 		display: flex;
+		flex-wrap: wrap;
 		padding: 2rem 1rem;
 		justify-content: center;
 		align-items: center;
-		gap: 2rem;
+		gap: 1rem 2rem;
 	}
 	h1 {
 		margin: 0;
@@ -140,6 +141,12 @@ main {
 
 	width: min(100%, 90ch);
 	margin: 0 auto;
+}
+
+footer {
+	display: flex;
+	justify-content: center;
+	padding: 1rem;
 }
 
 h1,
