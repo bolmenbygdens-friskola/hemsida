@@ -9,8 +9,8 @@ Bei uns wachsen Kinder in einer ruhigen und inspirierenden Umgebung auf – mit 
 
 Die Schule soll im Herbstsemester 2027 ihren Betrieb aufnehmen. Um über den aktuellen Stand informiert zu bleiben, [klicken Sie hier, um sich für unseren Newsletter anzumelden!](https://gansub.com/s/fmCU31WC5wQcI/)   
 
-Melden Sie Ihr Interesse für Ihr(e) Kind(er) über den Link „Interesse anmelden“ oben an!  
-*(Die Anmeldung ist keine Anmeldung für die Schule, diese erfolgt zu einem späteren Zeitpunkt)*
+**Melden Sie Ihr Interesse für Ihr(e) Kind(er) über den Link „Interesse anmelden“ oben an!**  
+Selbstverständlich ist die Anmeldung nicht offiziell, sondern wir halten uns an die DSGVO und geben keine Informationen darüber weiter, wer sich angemeldet hat. 
 
 # Was macht uns besonders?
 - **Unterricht in der Natur**    
