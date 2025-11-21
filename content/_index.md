@@ -9,7 +9,7 @@ Hos oss får barn växa i en lugn och inspirerande miljö – med små klasser, 
 
 Skolan planeras starta höstterminen 2027 - För att hålla dig uppdaterad om processen, [klicka här för att anmäla dig till vårt nyhetsbrev!](https://gansub.com/s/fmCU31WC5wQcI/)   
 
-**Anmäl intresse för ditt/dina barn via länken "Anmäl intresse" ovan!** 
+**Anmäl intresse för ditt/dina barn via länken "Anmäl intresse" ovan!**  
 Självklart är anmälan inte officiell, utan vi följer GDPR, och kommer inte att dela information om vem eller vilka som anmält sig. 
 
 # Vad gör oss unika?
