@@ -9,8 +9,8 @@ With us, children grow in a calm and inspiring environment – with small class 
 
 The school is scheduled to open in the autumn term of 2027. To stay up to date on the process, [click here to sign up for our newsletter!](https://gansub.com/s/fmCU31WC5wQcI/)   
 
-Register your interest for your child/children via the ‘Register interest’ link above!  
-*(registration is not an application to the school; this will come at a later stage)*  
+**Register your interest for your child/children via the ‘Register interest’ link above!**  
+Of course, registration is not official, but we comply with GDPR and will not share information about who has registered. 
 
 
 # What makes us unique?
