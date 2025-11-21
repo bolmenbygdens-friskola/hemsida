@@ -40,9 +40,6 @@ Vi vill vara en friskola som kompletterar och förstärker det kommunala skolsys
 
 ## Bolmenbygdens friskola – där lärandet växer med naturen som vägvisare.
 
-För att läsa den utförligare versionen av Verksamhetsidén som kommer att skickas till skolinspektionen, [klicka här.](path=media/Verksamhetsidé Bolmenbygdens Friskola.pdf)  
-
-
 
 
 
