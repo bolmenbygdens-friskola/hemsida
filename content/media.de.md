@@ -8,3 +8,5 @@ Hier finden Sie Links zu Medienberichten über unsere Arbeit
 
 2025-09-30: [Stjärnkock till nya friskolan – satsar på matglädje och gemenskap](https://www.smalanningen.se/2025-09-30/stjarnkock-till-nya-friskolan-satsar-pa-matgladje-och-gemenskap/)  
 
+2026-01-09: [Skolskjuts och stjärnkock – så vill friskolan bli ett lyft för bygden](https://www.smalanningen.se/2026-01-09/skolskjuts-och-stjarnkock-sa-vill-friskolan-bli-ett-lyft-for-bygden/)
+
