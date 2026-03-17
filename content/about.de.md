@@ -47,3 +47,10 @@ Wir werden eine freiwillige Mitgliedschaft anbieten. Der Verein wird einmal im J
 
 
 Nein, wir sind eine gemeinnützige Organisation und haben nicht die Absicht, Gewinn zu machen. Unsere Kinder haben es verdient, dass wir unser ganzes Geld dafür ausgeben, dass es ihnen gut geht. Wir werden jedoch versuchen, in manchen Jahren Geld zu sparen, um die Ausgaben zwischen den Jahren auszugleichen und in anderen Jahren mehr investieren zu können, zum Beispiel in Unterstützung, Lehrmaterial oder Räumlichkeiten.
+
+## Wie wird die Schule betrieben?
+
+
+Die Bolmenbygdens Friskola wird als wirtschaftlicher Verein geführt, der als Trägereinrichtung der Schule fungiert. Das bedeutet, dass die Schule nicht gewinnorientiert organisiert ist und dass alle Überschüsse wieder in den Schulbetrieb investiert werden. Als Trägereinrichtung trägt der Verein die Verantwortung dafür, dass die Schule die Anforderungen des Schulgesetzes erfüllt, sowohl hinsichtlich der Bildungsqualität als auch des Arbeitsumfelds. Die Mitglieder des Vereins, bei denen es sich um Eltern von Schülern der Schule und andere engagierte Personen handelt, haben Stimmrecht bei der Jahreshauptversammlung. Die Mitglieder des Vorstands sind unter der Rubrik „Kontakt“ aufgeführt.
+
+
