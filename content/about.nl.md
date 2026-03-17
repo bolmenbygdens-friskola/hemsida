@@ -47,3 +47,10 @@ We bieden een vrijwillig lidmaatschap aan. De vereniging heeft één keer per ja
 
 
 Nee, we zijn een non-profitorganisatie en het is niet onze bedoeling om winst te maken. Onze kinderen verdienen het dat we al ons geld stoppen in het goed maken voor hen. Wel proberen we sommige jaren geld te sparen om de kosten tussen de jaren te verdelen en om in andere jaren extra te kunnen investeren, bijvoorbeeld in ondersteuning, lesmateriaal of lokalen.
+
+## Hoe wordt de school geleid?
+
+
+De particuliere school van Bolmenbygden wordt geleid door een economische vereniging die optreedt als schoolbestuur. Dit betekent dat de school zonder winstoogmerk is georganiseerd en dat alle overschotten opnieuw in de schoolactiviteiten worden geïnvesteerd. Als schoolbestuur draagt de vereniging de verantwoordelijkheid ervoor dat de school voldoet aan de eisen van de onderwijswet, zowel wat betreft de kwaliteit van het onderwijs als de werkomgeving. De leden van de vereniging, die ouders zijn van kinderen op de school en andere betrokkenen, hebben stemrecht op de jaarvergadering. De leden van het bestuur staan vermeld onder het tabblad “contact”.
+
+
