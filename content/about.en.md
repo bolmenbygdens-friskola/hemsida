@@ -23,3 +23,10 @@ We will offer a voluntary membership. The association will have a general meetin
 
 ## Do you make a profit?
 No, we are an economic association and do not intend to make a profit. Our children deserve that we put all our money into making it good for them. However, we will try to save money some years to be able to even out between years and to be able to invest extra in other years, for example in support, teaching materials or premises.
+
+## How is the school run?
+
+
+Bolmenbygdens Friskola is operated as a non-profit association that serves as the school’s governing body. This means that the school is organized on a non-profit basis and that any surplus is reinvested in the school’s operations. As the governing body, the association is responsible for ensuring that the school complies with the requirements of the Education Act, both in terms of the quality of education and the work environment. Members of the association—who are parents of children at the school and other committed individuals—have voting rights at the annual meeting. The members of the board are listed under the “Contact” tab.
+
+
