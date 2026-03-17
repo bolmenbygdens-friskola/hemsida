@@ -50,3 +50,11 @@ Vi kommer att erbjuda ett frivilligt medlemskap. Föreningen kommer att ha en st
 
 
 Nej, vi är en ekonomisk förening och tänker inte ta ut någon vinst. Våra barn förtjänar att vi lägger alla våra pengar på att det ska bli bra för dem. Däremot kommer vi att försöka spara pengar vissa år för att kunna jämna ut mellan år och för att kunna satsa extra andra år, t ex i stöd, läromedel eller lokaler.
+
+
+
+
+## Hur drivs skolan?
+
+
+Bolmenbygdens friskola drivs som en ekonomisk förening som fungerar som huvudman för skolan. Detta innebär att solan är organiserad utan vinstsyfte och att allt överskott återinvesteras i skolans verksamhet. Som huvudman bär föreningen ansvaret för att skolan följer skollagens krav; både när det gäller utbildningens kvalitet och arbetsmiljön. Medlemmarna i föreningen som är föräldrar till barn i skolan och andra engagerade har rösträtt vid årsstämman. Medlemmarna i styrelsen finns presenterade under fliken "kontakt"
