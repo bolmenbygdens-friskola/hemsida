@@ -9,7 +9,7 @@ info@bolmenbygdensfriskola.se
 
 ***Bolmenbygdens Friskola Ekonomisk förenings styrelse består av:***  
 Louise Lanqvist - Ordförande  
-Carina Bolmblad - Kassör  
+Carina Bolmblad - Sekreterare  
 Lovisa Jakobsson  - Kassör  
   
 **Ledamöter:**  
